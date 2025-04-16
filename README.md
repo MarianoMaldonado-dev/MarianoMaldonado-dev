@@ -14,8 +14,8 @@
     </p>
     <h2>📚 Formación</h2>
     <ul>
+      <li>Estudiante de Licenciatura en Sistemas - Universidad Nacional de La Plata, Facultad de Inforática (2025)</li>
       <li>Técnico Analista de Sistemas - Inst. Superior de Formación Técnica N°12 (2021-2025)</li>
-      <li>Estudiante de Licenciatura en Sistemas - Universidad Nacional de La Plata, Facultad de Inforática</li>
       <li>Programador Back End - Beca ONE Alura Latam (2024)</li>
       <li>Oracle Cloud Infrastructure & Oracle DB MySQL (2024)</li>
     </ul>
