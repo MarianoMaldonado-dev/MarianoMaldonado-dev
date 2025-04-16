@@ -14,8 +14,8 @@
     </p>
     <h2>🛠 Habilidades Técnicas</h2>
     <ul>
-      <li><strong>Back-End:</strong> Java, Spring Framework</li>
-      <li><strong>Bases de Datos:</strong> SQL, MySQL, Oracle DB</li>
+      <li><strong>Back-End:</strong> ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white), ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)</li>
+      <li><strong>Bases de Datos:</strong> ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)</li>
       <li><strong>Front-End:</strong> HTML, CSS, JavaScript</li>
       <li><strong>Herramientas:</strong> Git/GitHub, Oracle Cloud Infrastructure, Linux/Windows</li>
     </ul>
@@ -25,6 +25,7 @@
       <li>Programador Back End - Beca ONE Alura Latam (2024)</li>
       <li>Oracle Cloud Infrastructure & Oracle DB MySQL - En curso</li>
     </ul>
+    ![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=MarianoMaldonado-dev&show_icons=true&theme=radical)
     <h2>📫 Contacto</h2>
     <p>
       <a href="mailto:marianomaldonado1290@gmail.com">📧 Email</a> | 
