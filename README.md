@@ -12,25 +12,77 @@
       Web FrontEnd y bases de datos relacionales (MySQL/Oracle). Apasionado por la tecnología y en constante 
       aprendizaje de nuevas herramientas.
     </p>
-    <h2>🛠 Habilidades Técnicas</h2>
-    <ul>
-      <li><strong>Back-End:</strong> ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white), ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)</li>
-      <li><strong>Bases de Datos:</strong> ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)</li>
-      <li><strong>Front-End:</strong> HTML, CSS, JavaScript</li>
-      <li><strong>Herramientas:</strong> Git/GitHub, Oracle Cloud Infrastructure, Linux/Windows</li>
-    </ul>
     <h2>📚 Formación</h2>
     <ul>
-      <li>Técnico Analista de Sistemas - Inst. Superior de Formación Técnica N°12 (2021-2024)</li>
+      <li>Técnico Analista de Sistemas - Inst. Superior de Formación Técnica N°12 (2021-2025)</li>
+      <li>Estudiante de Licenciatura en Sistemas - Universidad Nacional de La Plata, Facultad de Inforática</li>
       <li>Programador Back End - Beca ONE Alura Latam (2024)</li>
-      <li>Oracle Cloud Infrastructure & Oracle DB MySQL - En curso</li>
+      <li>Oracle Cloud Infrastructure & Oracle DB MySQL (2024)</li>
     </ul>
-    ![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=MarianoMaldonado-dev&show_icons=true&theme=radical)
+    <h2>💻 Stack Tecnológico</h2>
+
+<h3>🔧 Back-End</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring Boot"/>
+</p>
+
+<h3>🎨 Front-End</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+<h3>🗃️ Bases de Datos</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle DB"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+</p>
+
+<h3>🛠️ Herramientas</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+</p>
+  <h2>💻 Proyectos Destacados</h2>
+    <table>
+      <tr>
+        <td width="50%">
+          <h3 align="center">ForEx Flow</h3>
+          <div align="center">
+            <a href="https://github.com/MarianoMaldonado-dev/ForEx-Flow">
+             <!-- <img src="https://via.placeholder.com/300" width="400" alt="Proyecto 1"/> -->
+            </a>
+            <p>
+              <strong>Tecnologías:</strong> Java 17
+            </p>
+          </div>
+        </td>
+        <td width="50%">
+          <h3 align="center">ForumEngine API</h3>
+          <div align="center">
+            <a href="https://github.com/MarianoMaldonado-dev/ForumEgineAPI">
+             <!-- <img src="https://via.placeholder.com/300" width="400" alt="Proyecto 2"/> -->
+            </a>
+            <p>
+              <strong>Tecnologías:</strong> HTML, CSS, JavaScript
+            </p>
+          </div>
+        </td>
+      </tr>
+    </table>
     <h2>📫 Contacto</h2>
     <p>
       <a href="mailto:marianomaldonado1290@gmail.com">📧 Email</a> | 
       <a href="https://www.linkedin.com/in/mariano-maldonado-810847288">🔗 LinkedIn</a> | 
-      <a href="https://app.aluracursos.com/user/cyberwargamesproductions">🎓 Alura LATAM</a>
+      <a href="https://app.aluracursos.com/user/cyberwargamesproductions">🎓 Alura LATAM</a> | 
+      <a href="https://www.instagram.com/marianomaldonado.dev/"> Instagram</a>
     </p>
     <div style="margin-top: 30px; font-size: 0.9em; color: #666;">
       <p>📍 González Catán, Buenos Aires | Disponibilidad: Remoto/Presencial/Híbrido</p>
